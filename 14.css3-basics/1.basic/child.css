@@ -1,0 +1,7 @@
+/* @import url("./parent.css"); */
+
+@import "./parent.css";
+
+h1 {
+    color: blue;
+}
